@@ -1,0 +1,5 @@
+TODO:
+finish country names
+create a format for displaying the map with articles as an html template
+add some responsive css so that it can be used on a cell phone
+integrate into Backbone.js
